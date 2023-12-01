@@ -1,0 +1,5 @@
+# CMake debris
+build/
+
+# VSCode config
+.vscode/
