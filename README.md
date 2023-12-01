@@ -156,7 +156,7 @@ ros2 launch ur5_kdr ur5_simulation.launch.py
 
 After you launch this python script, you will see a UR5 lying down on the ground:
 
-![ur5 bringup](./resources/ur5 bringup.png)
+![ur5 bringup](resources/ur5bringup.png)
 
 
 
