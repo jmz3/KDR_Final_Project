@@ -1,6 +1,6 @@
 # KDR_Final_Project 
 
-This repository hosts the code for completing Part 3 of the final project for 535.630 Kinematics & Dynamics for Robots. It is designed to guide you through the UR5 robot visualization in ROS2 using the trajectory you generated.
+This repository hosts the code for completing Part 3 of the final project for **535.630 Kinematics & Dynamics for Robots**. It is designed to guide you through the UR5 robot visualization in ROS2 using the trajectory you generated.
 
 - Author: Jeremy Zhang
 
