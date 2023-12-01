@@ -4,7 +4,7 @@ This repository hosts the code for completing Part 3 of the final project for **
 
 - Author: Jeremy Zhang
 
-## Prerequists
+## prerequisites
 
 Before you download this repository to your local disk, make sure your computer meets the requirements. Here is the checklist you may want to go through:
 
